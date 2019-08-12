@@ -31,3 +31,6 @@ for i in str6:
 #匹配的作为分割线进行分割
 str7 = re.split('[a-z]+',str1)
 print(str7)
+#从键盘输入
+str8 = input('请键入内容：')
+print(str8)
